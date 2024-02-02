@@ -1,3 +1,9 @@
+# Firebase secret
+**/firebase_options.dart
+
+# Firebase related
+.firebase
+
 # Miscellaneous
 *.class
 *.log
